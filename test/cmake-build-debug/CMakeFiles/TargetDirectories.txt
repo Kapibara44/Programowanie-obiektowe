@@ -1,3 +1,0 @@
-C:/Users/k07_3pr02/Documents/Programowanie obiektowe/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/k07_3pr02/Documents/Programowanie obiektowe/test/cmake-build-debug/CMakeFiles/test.dir
-C:/Users/k07_3pr02/Documents/Programowanie obiektowe/test/cmake-build-debug/CMakeFiles/edit_cache.dir
